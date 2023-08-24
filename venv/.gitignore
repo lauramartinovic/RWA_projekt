@@ -1,8 +1,0 @@
-# created by virtualenv automatically
-*
-.env
-venv/
-env/
-*.pyc
-__pycache__/
-.vscode/
