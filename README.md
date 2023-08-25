@@ -7,9 +7,9 @@ Projekt za kolegij RWA.
 
 2. cd backend
 
-3. pip install -r requirements.txt
-
-4. venv\Scripts\activate
+3. venv\Scripts\activate
+   
+4. pip install -r requirements.txt
 
 5. uvicorn main:app --reload
 
